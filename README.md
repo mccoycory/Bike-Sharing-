@@ -26,6 +26,32 @@ Below is a line graph that plots ride count by age. This is important to determi
 
 The line graph below shows the duration of bike rides per ride. This is an important graph because you know how long your customer is using your product. From this graph, you can see that most of the riders ride between 0-20 mins. We can use this information to give cheaper prices if you ride the bike longer or vise versa. 
 
+![Duration by Ride]()
+
+### Duration of Bike Ride by Gender
+
+The line graph belows shows a similar store as the previous image. This shows that men make up the largest market cap of the rides. Additionally, the delta between those curves is about 10-15 mins. That means men ride 10 to 15 mins more than women. 
+
+![Duration by gender]()
+
+### Duration by Hour 
+
+The heat map below shows the busiest times that the bikes are getting used. This could be used to determine an optimum time to do a surge charge. The heat maps shows the busiest times are between 7-8am and 5-6pm and on the weekends, mainly Saturday. 
+
+![Duration by Hour]()
+
+### Trip per week by Gender
+
+The heat map below shows number of trip for each day of the week and it is sorted by Gender. The large take away from this graph is that males use the bikes almost every single day and they are a subcriber to the service. 
+
+![Trips per week by gender]()
+
+## Summary 
+
+Overall, based off the anaylsis we preformed the best place to put a city bike is a place that is fairly high density, where you can ride for 20 mins and get someplace and a place that has a bunch of males who are between the age of 25 and 45.
+
+Two more additionally graphs would be neat to look at is type of bike. Is there a market to have a bike with a basket or a bike that has different gear ratio to climb hills in the city. Lastly, I think it would be neat to track actually movement time vs trip duration time. This would give an idea of high trafficed area if there is a bunch of stopage time. In which this data could be used to add another city bike station in the area. 
+
 
 
 
