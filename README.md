@@ -1,5 +1,8 @@
 # Bike Sharing
 
+## Link to Dashboard 
+[Link](https://public.tableau.com/app/profile/cory.mccoy/viz/CitiBikeChallenge_16270061021190/CitiBikeAnalysis?publish=yes)
+
 ## Overview 
 
 Our friend recently got back from a trip to NYC where she fell in love with riding bikes around for public transportation. In fact, she loved it some much that she wanted to see if having a city bike model would work in the boring Midwest. We were tasked to help her study the Demographic and city bike model from NYC and then use those conclusion to compare to the her city. We used a free software called Tableau and pulled the data from an online database. The data consisted of lat and long coordinates, gender, age, trip duration, etc. Below are 7 different visuals we used to share the data we collected. 
